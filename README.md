@@ -1,0 +1,1 @@
+FoodHub is an online food delivery platform that connects customers with restaurants. This repository analyzes order data to uncover trends in restaurant demand, delivery efficiency, and customer satisfaction. Insights from this analysis aim to optimize operations, enhance customer experience, and drive business growth.
